@@ -1,0 +1,41 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>FRIAS</title>
+<link href="../tt css.css" rel="stylesheet" type="text/css">
+</head>
+
+
+<body>
+
+<div id="title">
+<img src="../Images/frias logo.gif" width="488" height="366" alt=""/>
+<h1>FRIAS</h1>
+</div>
+<!-- TemplateBeginEditable name="Header" -->
+<div id="header">
+  <h1>Header</h1>
+</div>
+<!-- TemplateEndEditable -->
+<ul>
+  <li><a href="../home.html">Home</a></li>
+  <li><a href="../products.html">Products</a></li>
+  <li><a href="../cafe.html">Cafe</a></li>
+  <li><a href="../events.html">Events</a></li>
+  <li><a href="../service.html">Services Page</a></li>
+  <li><a href="../contact_form.html">Order Form</a></li>
+  <li><a href="../feedback_form.html">Feedback Form</a></li>
+  <li><a href="../aboutus.html">About Us</a></li>
+</ul>
+<!-- TemplateBeginEditable name="content" -->
+<div class="main">
+  <p>Main Content</p>
+</div>
+<!-- TemplateEndEditable -->
+<p id="footer">&copy; Copyright Frias Costume All Rights Reserved.</p>
+</body>
+
+
+
+</html>

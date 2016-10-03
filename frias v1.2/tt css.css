@@ -1,0 +1,132 @@
+@charset "utf-8";
+
+body {
+	background-image: url(Images/Background.png);
+}
+
+#title { 
+text-align:center;
+padding:10px;
+background-color: #730000;
+height:370px;
+width:100%;
+}
+
+#title h1{
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-size: 850%;
+	color: rgba(233,92,45,1.00);
+}
+
+#title img { float:left;
+width:350px;
+height:350px;
+	}
+
+#header {
+	background-color: rgba(208,0,3,1.00);
+	text-align:center;
+	width:100%;
+	font-size:550%;
+	padding-bottom: 5px;
+	}
+	
+#header h1 {
+	margin-top:10px;
+color: white;
+
+	}
+
+ul {
+	margin-top: 5px;
+	list-style-type: none;
+	padding: 0;
+	background-color: #E3E3E3;
+	text-align: center;
+	height: 90%;
+	overflow: auto;
+	position: absolute;
+	width: 15%;
+}
+
+li a {
+	display: block;
+	color: #000;
+	padding: 8px;
+	text-decoration: none;
+	font-size: 20px;
+}
+
+li input{
+	margin-top: 10px;
+	width: 200px;
+	height: 20px;
+	font-size: 15px;
+}
+
+li a:hover {
+    background-color: #555;
+    color: white;
+}
+
+.main {
+	margin-top:5px;
+	margin-left: 15%;
+	background-color: rgba(9,98,33,1.00);
+	text-align: center;
+	padding: 20px;
+}
+
+.main th {
+	font-size:36px;
+	color:rgba(255,255,255,1.00);
+}
+
+.main h1 {
+color:white;
+font-size: 50px;
+	}
+
+.main p {
+color: white;
+font-size:20px;
+padding: 50px;
+}
+.main table {
+	width: 85%;
+	margin-left:25px;
+	color: white;
+	background-color:rgba(167,0,2,1.00);
+}
+
+.main img {
+	width: 25%;
+	height: 100%;
+}
+
+.main li {
+
+	color: white;
+		
+}
+
+.main form {
+	text-align:left;
+	margin-top:5px;
+	margin-left: 10%;
+	background-color: rgba(9,98,33,1.00);
+	padding: 20px;
+	color: white;
+}
+
+.main textarea {
+	width: 85%;
+}
+
+#footer {
+text-align: center; 
+background-color: rgba(5,51,0,1.00); 
+margin-left:15%;
+font-size:15px;
+color: rgba(94,162,255,1.00);
+}
